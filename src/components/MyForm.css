@@ -1,0 +1,12 @@
+.days > Input {
+margin: 5px;
+}
+.days > Label {
+    margin-right: 60px;
+    }
+    h5{
+        margin-left: 20px;
+    }
+    .weekdaysDiv{
+        margin-left: 20px;
+    }
